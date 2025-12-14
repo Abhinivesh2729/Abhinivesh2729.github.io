@@ -1,0 +1,70 @@
+ABHINIVESH S
+Applied AI Engineer
+PROFESSIONAL SUMMARY
+Applied AI Engineer with 4 years of experience delivering AI-driven web and mobile products, multi-agent
+workflows, and cross-platform applications. Demonstrates strong ownership in product design, team leadership,
+and scalable, secure system delivery. Skilled in Flutter, Python, LangChain, LangGraph, RAG, LLM fine-tuning,
+Next.js, TypeScript, QLoRA/LoRA, and FastAPI.
+PROFESSIONAL ROLES
+Founder & Lead - ATmega Software Technologies LLP
+2020 - Present
+●
+●
+●
+●
+●
+Managed and mentored a technical team of 5 engineers across Flutter, backend, and AI Stack.
+Oversaw project delivery, architecture decisions, sprint planning, and client interactions.
+Reviewed code, set up development standards, and ensured high quality engineering practices.
+Drove technical direction of the company, including migration to microservices, adoption of AI workflows,
+and secure development practices.
+Acted as a solo contributor for critical modules, backend microservices, AI integrations, and full app
+releases.
+MAJOR PROJECTS
+Timesmart.ai
+Software Engineer (Applied AI)
+Tech Stack: Flutter, Python FastAPI, OpenAI , OCR, Context Engineering, RabbitMQ, GraphQL, WebSockets, Spring
+Boot, Microservices, Keycloak
+Key Contributions
+●
+Built the cross platform frontend for web, Android, and iOS using Flutter.
+●
+Designed AI driven contract automation using Python, OCR, and LLM reasoning to convert raw contracts
+into structured database format.
+●
+Migrated a large Spring Boot backend to modular Python FastAPI microservices.
+Kavi - Thirukkural Based LLM
+LLM Developer
+Model: https://huggingface.co/0xAbhi/kavi
+Tech Stack: Python, Transformers, QLoRA, PEFT , Hugging Face, BitsAndBytes, CUDA, Dataset Curation, Prompt
+Engineering
+Key Contributions
+●
+Fine-tuned an LLM on 1,330 Thirukkural couplets using QLoRA for efficient training on limited hardware.
+●
+Built optimized training pipelines with PEFT , quantization, and gradient checkpointing.
+●
+Released 3 Versions on Hugging Face with inference-ready configs and evaluation logs.
+HiTHard AI - Agentic Software Testing platform
+Developer (FastAPI, Next JS, LangChain)
+Link: https://hithard.atmega.in
+Key Contributions
+●
+●
+●
+QA agent that autonomously explores, detects bugs, and delivers actionable insights.
+Enables fast, predictive quality assurance with human AI collaboration for higher deployment velocity.
+Simplifies QA with a zero setup workflow, enter URL, trigger AI testing, and receive instant bug reports.
+Dono Ride - Cab Booking Platform
+Software Engineer (AI Enabled Mobility Systems)
+Tech Stack: Flutter, Firebase, Vertex Ai, Google Maps, Provider, MVVM, Next.js, TypeScript, FastAPI
+Interfaces Delivered: Admin Dashboard (Next.js), User App (Android & iOS), Driver App (Android & iOS)
+Key Contributions
+●
+Built a mobility ecosystem with booking flows, driver lifecycle systems, and admin analytics dashboard.
+●
+Integrated Google Maps APIs for navigation, real time tracking, ETA calculations, and routing.
+●
+Used LLM powered features such as ride intent detection, issue summarization, and fare explanation.
+●
+Implemented Firebase Auth, Firestore, and FCM for real time ride state sync across all interfaces.
